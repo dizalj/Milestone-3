@@ -35,11 +35,10 @@ For more details, see the **[Milestone3.ipynb](./Milestone3.ipynb)** notebook.
 
 ---
 
-## **📂 Repository Structure**
+## **Repository Structure**
 - **Milestone3.ipynb:** Full pipeline implementation (ingestion, preprocessing, validation, feature engineering, and versioning).
 - **substitutes.csv:** The dataset used for processing.
-- **feature_store.yaml:** Feast configuration file for the feature store.
-- **laddaty_feature_repo/**: Contains the registry and stored features.
+- **laddaty_feature_repo/**: Contains the registry and stored features (along the feature store).
 
 ---
 
