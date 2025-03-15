@@ -1,0 +1,8 @@
+offline_store:
+  type: file
+online_store:
+  path: /content/laddaty_feature_repo/online_store.db
+  type: sqlite
+project: laddaty_feature_store
+provider: local
+registry: /content/laddaty_feature_repo/registry.db
